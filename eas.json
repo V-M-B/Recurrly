@@ -9,5 +9,8 @@
     "production": {
       "autoIncrement": true
     }
+  },
+  "cli": {
+    "appVersionSource": "remote"
   }
 }
